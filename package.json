@@ -1,0 +1,30 @@
+{
+  "name": "glitch-github-cd",
+  "version": "0.0.1",
+  "description": "Continuous deployment powered by Glith.me and GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anglinb/glitch-github-cd.git"
+  },
+  "keywords": [
+    "glitch",
+    "github",
+    "continuous",
+    "deployment",
+    "webhooks",
+    "hosting"
+  ],
+  "author": "Brian Anglin <banglin@usc.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anglinb/glitch-github-cd/issues"
+  },
+  "homepage": "https://github.com/anglinb/glitch-github-cd#readme",
+  "dependencies": {
+    "del": "^3.0.0"
+  }
+}
